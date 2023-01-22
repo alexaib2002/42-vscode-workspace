@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"path": "42-libft"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"libft.h": "c",
+			"string.h": "c",
+			"random": "c",
+			"queue": "c",
+			"stddef.h": "c"
+		},
+		"files.insertFinalNewline": true,
+		"makefile.launchConfigurations": [
+			{
+				"cwd": "/home/alexaib/Projects/42/42-libft",
+				"binaryPath": "/home/alexaib/Projects/42/42-libft/libft_debug.bin",
+				"binaryArgs": []
+			}
+		],
+		"42header.username": "aaibar-h",
+		"42header.email": "aaibar-h@student.42madrid.com",
+		"C_Cpp.default.cStandard": "",
+		"memory-view.showMemoryPanel": true
+	},
+	"extensions": {
+		"recommendations": [
+			"mariusvanwijk-joppekoers.codam-norminette-3"
+		]
+	}
+}
